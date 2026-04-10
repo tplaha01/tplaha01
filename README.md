@@ -20,14 +20,27 @@
 
 ---
 
-## ⚡ Stack
+## ⚡ Tech Stack
 
-**Languages:** Python · JavaScript · SQL  
-**Backend:** FastAPI · Node.js  
-**Frontend:** React · Next.js · Tailwind  
-**ML/Finance:** LightGBM · Pandas · Alpaca API  
-**Cloud:** Vercel · Render · AWS (EC2, S3, RDS)  
-**AI:** Claude API (Haiku · Sonnet)
+**Languages:** Python · JavaScript · TypeScript · SQL · Bash
+
+**Backend:** FastAPI · Node.js · Express · PostgreSQL · Neon · Prisma
+
+**Frontend:** React · Next.js · Vite · Tailwind CSS · Material UI · Magic UI
+
+**ML/Finance:** LightGBM · Pandas · NumPy · Scikit-learn · Alpaca API · YFinance
+
+**AI/LLMs:** Anthropic Claude (Haiku · Sonnet) · Prompt Engineering · RAG
+
+**DevOps/Cloud:** AWS (EC2 · S3 · SQS · DynamoDB · RDS) · Vercel · Render · Koyeb · Railway
+
+**Database:** PostgreSQL · DynamoDB · Redis · Prisma ORM
+
+**APIs:** Gmail OAuth · Stripe · Alpaca Trading API · News APIs
+
+**Tools:** Git · Docker · GitHub Actions · Linux · VS Code · Postman
+
+**Testing:** Jest · Pytest · Mutation Testing · Basis Path Coverage
 
 ---
 
