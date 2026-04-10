@@ -48,16 +48,16 @@
 
 ```
 tplaha01 (Tarandeep Singh Plaha)
-├─ 33 Contributions in 2026
+├─ 330+ Contributions in 2026 📈
+├─ Current Streak: 15 days (non-stop) 🔥
+├─ Total Contributions (all-time): 318+
 ├─ 9 Public Repos
-├─ 71 Total Contributions (Sep 24, 2024 - Present)
-├─ Current Streak: 3 days (Apr 8 - Apr 10)
-└─ Longest Streak: 3 days (Apr 8 - Apr 10)
+└─ Joined GitHub: ~1 year ago
 ```
 
 <a href="https://github.com/tplaha01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&text_color=8b949e&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&text_color=8b949e&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&text_color=8b949e&count_private=true&v=3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&text_color=8b949e&layout=compact&langs_count=8&v=3" />
 </a>
 
 ---
@@ -89,16 +89,16 @@ tplaha01 (Tarandeep Singh Plaha)
 ## 📈 Activity & Streaks
 
 ```
- 71 Total Contributions
-┌─────────────────┬──────────────┬─────────────────┐
-│ Current Streak  │ Longest Streak │ Total Days    │
-├─────────────────┼──────────────┼─────────────────┤
-│  3 days         │    3 days    │ Sep '24 - Now  │
-└─────────────────┴──────────────┴─────────────────┘
+ 330+ Contributions in 2026
+┌──────────────────┬──────────────┬──────────────────┐
+│ Current Streak   │ Longest Streak │ Total Span    │
+├──────────────────┼──────────────┼──────────────────┤
+│  15 days 🔥      │  15 days     │ Sep '24 - Apr '26 │
+└──────────────────┴──────────────┴──────────────────┘
 ```
 
 <a href="https://github.com/tplaha01">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tplaha01&theme=dracula&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tplaha01&theme=dracula&hide_border=true&background=0d1117&v=3" />
 </a>
 
 ---
