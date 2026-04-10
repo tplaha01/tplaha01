@@ -46,13 +46,18 @@
 
 ## 📊 Live Stats
 
+```
+tplaha01 (Tarandeep Singh Plaha)
+├─ 33 Contributions in 2026
+├─ 9 Public Repos
+├─ 71 Total Contributions (Sep 24, 2024 - Present)
+├─ Current Streak: 3 days (Apr 8 - Apr 10)
+└─ Longest Streak: 3 days (Apr 8 - Apr 10)
+```
+
 <a href="https://github.com/tplaha01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&text_color=8b949e&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&text_color=8b949e&layout=compact&langs_count=8" />
-</a>
-
-<a href="https://github.com/tplaha01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tplaha01&theme=dracula" />
 </a>
 
 ---
@@ -82,6 +87,15 @@
 ---
 
 ## 📈 Activity & Streaks
+
+```
+ 71 Total Contributions
+┌─────────────────┬──────────────┬─────────────────┐
+│ Current Streak  │ Longest Streak │ Total Days    │
+├─────────────────┼──────────────┼─────────────────┤
+│  3 days         │    3 days    │ Sep '24 - Now  │
+└─────────────────┴──────────────┴─────────────────┘
+```
 
 <a href="https://github.com/tplaha01">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tplaha01&theme=dracula&hide_border=true&background=0d1117" />
