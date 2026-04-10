@@ -35,21 +35,6 @@ Building products at the intersection of ML and high-performance systems
 
 ---
 
-## 📊 GitHub Metrics
-
-```
-Real-time data | Updated live from GitHub API
-```
-
-🔗 See live stats at: **[github.com/tplaha01](https://github.com/tplaha01)**
-
-- **330+ contributions in 2026** (and counting)
-- **15+ day current streak** 🔥
-- **9 public repositories**
-- **Joined GitHub 1 year ago**
-
----
-
 ## 🎯 Core Competencies
 
 - **Trading Systems** – 39-feature ML pipeline, 4-signal hybrid engine, backtesting, risk management (95% VaR)
@@ -57,15 +42,6 @@ Real-time data | Updated live from GitHub API
 - **ML/AI Systems** – LightGBM, feature engineering, prompt engineering (Claude), sentiment analysis
 - **Cloud Infrastructure** – AWS (EC2, S3, SQS, DynamoDB), Vercel, Render, containerization
 - **API Design** – RESTful, Gmail OAuth, Stripe integration, Alpaca trading API
-
----
-
-## 🎓 Current
-
-**ASU Spring 2026:**
-- CSE546: Cloud Computing (AWS multi-tier systems)
-- CSE545: Software Testing (mutation testing, basis path coverage)
-- CSE598: AI Systems
 
 ---
 
