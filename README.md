@@ -46,9 +46,14 @@
 
 ## 📊 Live Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&text_color=8b949e)
+<a href="https://github.com/tplaha01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&text_color=8b949e&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&text_color=8b949e&layout=compact&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&text_color=8b949e&layout=compact)
+<a href="https://github.com/tplaha01">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tplaha01&theme=dracula" />
+</a>
 
 ---
 
@@ -60,6 +65,27 @@
 - **Stripe localization** for Indian e-commerce market
 - **95% VaR risk management** + Half-Kelly position sizing
 - **Gmail OAuth** with auto-refresh token persistence
+
+---
+
+## 🚀 Innovation Stack
+
+| Feature | Implementation |
+|---------|-----------------|
+| **Real-time Trading Signals** | WebSocket + LightGBM predictions |
+| **AI Reply Automation** | Claude Haiku + Gmail API |
+| **Multi-tenant SaaS** | PostgreSQL + JWT + RBAC |
+| **Local AI Agent** | LLM integration + task automation |
+| **Stripe for India** | INR currency + local payment flows |
+| **Research Dashboard** | Real-time data viz + PostgreSQL |
+
+---
+
+## 📈 Activity & Streaks
+
+<a href="https://github.com/tplaha01">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tplaha01&theme=dracula&hide_border=true&background=0d1117" />
+</a>
 
 ---
 
