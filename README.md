@@ -47,7 +47,7 @@ Building ML-driven products at the intersection of AI & Finance
 ## 📊 Live Stats
 
 <a href="https://github.com/tplaha01">
-  <img src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&count_private=true&show=reviews,prs_merged" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&show_icons=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tplaha01&theme=dracula&hide_border=true&bg_color=0d1117&layout=compact&langs_count=10" />
 </a>
 
